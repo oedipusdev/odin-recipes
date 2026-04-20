@@ -11,3 +11,7 @@ h1 {
     display: inline-block
 
 }
+.homelist ul {
+    display: flex;
+    
+}
