@@ -13,5 +13,9 @@ h1 {
 }
 .homelist ul {
     display: flex;
+    list-style: none;
+    padding: 0;
+}
+.homelist ul li {
     
 }
