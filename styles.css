@@ -6,6 +6,7 @@ h1 {
     text-align: center;
     border-style: dashed;
     border-left-style: hidden;
+    border-right-style: hidden;
     display: inline-block
 
 }
