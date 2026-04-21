@@ -52,3 +52,13 @@ body {
 .section1 {
     margin-bottom: 30px;
 }
+#headingmenemen {
+    text-align: center;
+    border: 3px solid #DEA8A8;
+    display: inline-block;
+    margin:  20px 0;
+    padding: 15px 25px;
+    border-radius: 20px;
+    background-color: #F9FDE1;
+
+}
