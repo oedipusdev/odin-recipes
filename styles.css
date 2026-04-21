@@ -60,5 +60,8 @@ body {
     padding: 15px 25px;
     border-radius: 20px;
     background-color: #F9FDE1;
-
+}
+.container ul {
+    list-style: none;
+    padding: 20px;
 }
