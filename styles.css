@@ -44,13 +44,13 @@ body {
 }
 .container {
     margin: 80px auto;
-    max-width: 800px; 
+    max-width: 800px;  
     padding: 20px;
     background: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
     border-radius: 15px;
 }
 .section1 {
-    margin-bottom: 30px;
+    margin-bottom: 30px; 
 }
 .headings {
     text-align: center;
@@ -84,7 +84,7 @@ body {
     margin: 30px auto;
     text-align: center;
     padding: 10px 20px;
-    width: fit-content;
+    width: fit-content; /* This limits width expansion*/
     
     
 }
