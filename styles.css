@@ -62,10 +62,10 @@ body {
     background-color: #F9FDE1;
 }
 .container ul, ol {
-    list-style:circle
+    list-style:circle;
     padding: 10px;
     text-align: left;
-    display: inline-block;
+    display:inline-block;
 
 }
 .container ul {
