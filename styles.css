@@ -61,7 +61,10 @@ body {
     border-radius: 20px;
     background-color: #F9FDE1;
 }
-.container ul {
-    list-style: none;
-    padding: 20px;
+.container ul, ol {
+    list-style:disc;
+    padding: 10px;
+    text-align: left;
+    display: inline-block;
+
 }
