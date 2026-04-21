@@ -47,6 +47,9 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     max-width: 800px; /* Slightly wider for more content */
     padding: 20px;
-    background: rgba(255, 255, 255, 0.9); 
+    background: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
     border-radius: 15px;
+}
+.section1 {
+    margin-bottom: 30px;
 }
