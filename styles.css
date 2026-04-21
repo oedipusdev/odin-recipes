@@ -68,3 +68,6 @@ body {
     display: inline-block;
 
 }
+.container ul {
+    padding-right: 200px;
+}
