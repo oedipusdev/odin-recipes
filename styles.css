@@ -93,3 +93,13 @@ body {
     transform: scale(1.05);
     color: white;
 }
+#headings {
+    text-align: center;
+    border: 3px solid #DEA8A8;
+    display: block;
+    margin:  20px auto;    
+    padding: 15px 25px;
+    border-radius: 20px;
+    background-color: #F9FDE1;
+    width: fit-content;
+}
