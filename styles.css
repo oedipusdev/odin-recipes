@@ -21,3 +21,10 @@ h1 {
     gap: 200px;
 
 }
+.homelist ul li {
+    border: 2px solid black;
+    padding: 15px 25px;
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    
+}
