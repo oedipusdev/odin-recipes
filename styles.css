@@ -30,3 +30,6 @@ h1 {
     background-color: #f2f2f2;
 
 }
+.homelist ul li a {
+    text-decoration: none;
+}
