@@ -9,8 +9,8 @@ h1 {
     border-left-style: hidden;
     border-right-style: hidden;
     display: inline-block;
-    margin-bottom: 100px;
-    margin-right: 50px;
+    margin: 0 50px 100px 0;
+
 
 }
 .homelist ul {
@@ -26,5 +26,5 @@ h1 {
     padding: 15px 25px;
     border-radius: 10px;
     background-color: #f2f2f2;
-    
+
 }
